@@ -1,0 +1,6 @@
+{
+  "name": "Durga Puja App",
+  "description": "Luxurious Durga Puja Festival Management offering interactive countdowns, rituals booking, AI Chatbot, and volunteer onboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
